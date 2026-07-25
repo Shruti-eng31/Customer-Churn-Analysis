@@ -48,7 +48,7 @@ page = st.sidebar.radio("Navigation", [
 ])
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("Developed for Data Science Portfolio")
+st.sidebar.markdown("Crafted with Data, Code & Creativity by Shruti Singh")
 
 # --- Pages ---
 if page == "Executive Overview":
